@@ -7,7 +7,7 @@
 		-markov.js
 		-package.json
 
-Het gemakkelijkste is om de bestanden niet uit de map MarkovChain te halen en alles te laten hoe het is!
+Het gemakkelijkste is om de bestanden niet uit de map te halen en alles te laten hoe het is!
 Je mag wel de MarkovChain-map (met al de inhoud!) van locatie veranderen
 
 
